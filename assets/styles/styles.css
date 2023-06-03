@@ -1,0 +1,38 @@
+#verde {
+    background-color: green;
+}
+
+#naranjo {
+    background-color: orange;
+}
+
+#rojo {
+    background-color: red;
+}
+
+#morado {
+    background-color: purple;
+}
+
+#azul {
+    background-color: blue;
+}
+
+#negro {
+    background-color: black;
+}
+
+#brown {
+    background-color: brown;
+}
+
+body {
+    display: flex;
+    justify-content: space-evenly;
+    height: 100vh;
+    align-items: center;
+}
+
+#amarillo {
+    background-color: yellow;
+}
